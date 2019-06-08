@@ -935,3 +935,10 @@ Github: ezioalzeusi
 Nama: Herman Sugiharto
 Website: http://noesantara.byethost10.com
 Pesan: Terimakasih ya
+
+Entry: 132
+CodeSaya:MayerR
+Github: fatechid
+Nama: Mayer Reflino
+Website: fatechid.com
+Pesan: Dh bertaun blajar di codesaya, awalnya ngk ngerti kyk amatiran, tpi lama" udh terbiasa jadi mudah dimengerti :D
